@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashik MUhammed KN
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Something useful
-- 📫 How to reach me ...
+- 👀 I’m interested in CyberSecurity,development
+- 🌱 I’m currently learning Something.......
+- 📫 How to reach me ashikmuh.in
 
 <!---
 poppy1006/poppy1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
